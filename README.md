@@ -13,12 +13,4 @@ With the advancement in data mining technologies, machine learning can be used t
 * Python (statistical packages - NumPy, Pandas, Scikit-learn, Seaborn)
 * Jupyter Notebook
 
-### How to use the project?
-
-This project is complete and therefore, not open for contribution. But any suggestions regarding the implementation or additions are **highly appreciated**.
-
-### Contact 
-
-* LinkedIn - https://www.linkedin.com/in/stuti-dhebar/
-* Email - stutidhebar@gmail.com
 
